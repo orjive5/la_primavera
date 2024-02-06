@@ -22,7 +22,7 @@ const SideDrawer = () => {
                 <SheetContent className="w-[200px] sm:w-[300px]">
                     <SheetHeader>
                         <SheetTitle>
-                            Europe Open
+                            La Primavera
                         </SheetTitle>
                         <Separator />
                         <SheetDescription>

@@ -1,18 +1,18 @@
 export const navSections = [
     {
-        title: 'Home',
+        title: 'Početna',
         scrollTo: '#home'
     },
     {
-        title: 'About',
+        title: 'O nama',
         scrollTo: '#about'
     },
     {
-        title: 'Projects',
+        title: 'Projekti',
         scrollTo: '#projects'
     },
     {
-        title: 'Contact',
+        title: 'Kontakt',
         scrollTo: '#contact'
     },
 ];
